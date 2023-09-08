@@ -5,6 +5,12 @@
 
 <img src="https://github.com/DevMadhup/DevMadhup/blob/main/blogbranding.png" alt="BlogBranding" />
 
+<br>
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
 - 🔭 I’m currently working on **Microservices deployment on K8s**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Madhup2908](https://hashnode.com/@Madhup2908)
@@ -28,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmadhup&show_icons=true&locale=en" alt="devmadhup" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmadhup&" alt="devmadhup" /></p>
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/DevMadhup/DevMadhup/blob/main/github-contribution-grid-snake.svg)
