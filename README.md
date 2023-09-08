@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmadhup&label=Profile%20views&color=0e75b6&style=flat" alt="devmadhup" /> </p>
 
+<img src="https://github.com/DevMadhup/DevMadhup/blob/main/blogbranding.png" alt="BlogBranding" />
+
 - 🔭 I’m currently working on **Microservices deployment on K8s**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Madhup2908](https://hashnode.com/@Madhup2908)
