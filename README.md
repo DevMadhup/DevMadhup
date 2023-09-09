@@ -34,6 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmadhup&show_icons=true&locale=en" alt="devmadhup" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmadhup&" alt="devmadhup" /></p>
-
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/DevMadhup/DevMadhup/blob/main/github-contribution-grid-snake.svg)
