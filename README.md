@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 🔭 I’m currently working on **Microservices deployment on K8s**
+- 🔭 I’m currently working on **AWS and Azure Cloud**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Madhup2908](https://hashnode.com/@Madhup2908)
 
